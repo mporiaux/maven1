@@ -5,8 +5,8 @@
     <groupId>be.condorcet</groupId>
     <artifactId>mavenprojectCORS</artifactId>
     <version>1.0-SNAPSHOT</version>
-   <!-- <packaging>war</packaging> -->
-    <packaging>jar</packaging>
+    <packaging>war</packaging> 
+  <!--  <packaging>jar</packaging>-->
     <name>mavenprojectCORS</name>
 
     <properties>
